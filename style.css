@@ -1,0 +1,16 @@
+.header {
+    background-color: blue;
+    font-size: 48px;
+}
+
+.intro {
+    background-color: aquamarine;
+}
+
+.login-form {
+    background-color: #ff5500;
+}
+
+.header, .intro, .login-form {
+    text-align: center;
+}

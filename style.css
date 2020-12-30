@@ -1,3 +1,7 @@
+* {
+    background-color: black;
+}
+
 .header {
     background-color: blue;
     font-size: 48px;
